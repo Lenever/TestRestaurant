@@ -1,0 +1,14 @@
+{
+  "name": "restaurants",
+  "version": "1.0.0",
+  "description": "A simple restaurant app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikechukwu Onuorah",
+  "license": "ISC",
+  "dependencies": {
+    "popper.js": "^1.15.0"
+  }
+}
